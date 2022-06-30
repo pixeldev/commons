@@ -10,11 +10,7 @@ repositories {
 tasks {
     java {
         toolchain {
-            languageVersion.set(
-                JavaLanguageVersion.of(
-                    "${findProperty("java")}"
-                )
-            )
+            languageVersion.set(JavaLanguageVersion.of(8))
         }
     }
 }
