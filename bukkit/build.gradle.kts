@@ -7,6 +7,6 @@ repositories {
 }
 
 dependencies {
-    api(project(":validate"))
+    api(project(":commons-validate"))
     compileOnly(libs.spigot)
 }
