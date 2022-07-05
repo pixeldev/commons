@@ -1,4 +1,4 @@
-package net.cosmogrp.commons;
+package team.unnamed.pixel.commons;
 
 public final class Validate {
 

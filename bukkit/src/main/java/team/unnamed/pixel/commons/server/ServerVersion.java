@@ -1,4 +1,4 @@
-package net.cosmogrp.commons.bukkit.server;
+package team.unnamed.pixel.commons.server;
 
 import org.bukkit.Bukkit;
 

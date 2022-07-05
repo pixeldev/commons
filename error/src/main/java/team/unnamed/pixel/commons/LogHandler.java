@@ -1,4 +1,4 @@
-package net.cosmogrp.commons;
+package team.unnamed.pixel.commons;
 
 import org.jetbrains.annotations.Nullable;
 

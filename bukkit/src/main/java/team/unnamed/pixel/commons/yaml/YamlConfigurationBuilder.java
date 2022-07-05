@@ -1,13 +1,12 @@
-package net.cosmogrp.commons.bukkit.yaml;
+package team.unnamed.pixel.commons.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
-import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.Plugin;
 
 import java.io.File;
 import java.io.IOException;
 
-import static net.cosmogrp.commons.Validate.notNull;
+import static team.unnamed.pixel.commons.Validate.notNull;
 
 public class YamlConfigurationBuilder {
 

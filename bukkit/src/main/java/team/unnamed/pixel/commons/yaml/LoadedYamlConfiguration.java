@@ -1,4 +1,4 @@
-package net.cosmogrp.commons.bukkit.yaml;
+package team.unnamed.pixel.commons.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.YamlConfiguration;
