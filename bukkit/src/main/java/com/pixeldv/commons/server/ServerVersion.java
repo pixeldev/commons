@@ -1,4 +1,4 @@
-package team.unnamed.pixel.commons.server;
+package com.pixeldv.commons.server;
 
 import org.bukkit.Bukkit;
 

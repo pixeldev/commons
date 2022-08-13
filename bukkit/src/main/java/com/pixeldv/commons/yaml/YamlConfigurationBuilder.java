@@ -1,4 +1,4 @@
-package team.unnamed.pixel.commons.yaml;
+package com.pixeldv.commons.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.plugin.Plugin;
@@ -6,7 +6,7 @@ import org.bukkit.plugin.Plugin;
 import java.io.File;
 import java.io.IOException;
 
-import static team.unnamed.pixel.commons.Validate.notNull;
+import static com.pixeldv.commons.Validate.notNull;
 
 public class YamlConfigurationBuilder {
 

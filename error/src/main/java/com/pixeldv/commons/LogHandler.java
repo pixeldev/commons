@@ -1,4 +1,4 @@
-package team.unnamed.pixel.commons;
+package com.pixeldv.commons;
 
 import org.jetbrains.annotations.Nullable;
 

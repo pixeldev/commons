@@ -1,4 +1,4 @@
-package team.unnamed.pixel.commons.yaml;
+package com.pixeldv.commons.yaml;
 
 import java.io.File;
 import java.util.Collections;

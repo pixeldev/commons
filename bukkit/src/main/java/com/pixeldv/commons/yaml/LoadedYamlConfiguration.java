@@ -1,4 +1,4 @@
-package team.unnamed.pixel.commons.yaml;
+package com.pixeldv.commons.yaml;
 
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.configuration.file.YamlConfiguration;
